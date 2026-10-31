@@ -240,4 +240,4 @@ This repository serves as the official landing page for Terminus. The software i
 **Get the most recent version of Terminus today!**
 
 ---
-**Last updated:** 2026-10-31 14:02:09 UTC
+**Last updated:** 2026-10-31 18:55:18 UTC
